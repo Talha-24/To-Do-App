@@ -1,0 +1,10 @@
+:root {
+    /* Primary */
+    --primary: black;
+    --primary-light: #333333;
+
+
+    /* Text */
+    --text-gray: #6A7282;
+    --text-light-gray: #a8a6a6;
+}

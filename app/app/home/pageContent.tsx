@@ -4,12 +4,13 @@ import TaskManager from "@/src/components/tast-manager";
 
 const PageContent = () => {
 
-  return (
-    <div className="">
-      {/* LANGUAGE TOGGLE */}
-      <TaskManager/>
-    </div>
-  )
+    return (
+        <div className="children">
+            <TaskManager />
+        </div>
+
+
+    )
 
 }
 export default PageContent
